@@ -32,13 +32,13 @@
 
 <div align="center">
   <!-- 综合统计与常驻语言双排卡片 (暗夜蓝科技风) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=1E1E2E" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=react&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=1E1E2E" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=1E1E2E" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=react&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=1E1E2E" height="190"/>
 </div>
 <br/>
 <div align="center">
   <!-- 连续提交天数火力卡片 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue1y2s&theme=react&hide_border=true&background=1E1E2E&stroke=61dafb&ring=61dafb&fire=ff8a65&currStreakNum=ffffff&currStreakLabel=61dafb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue1y2s&theme=react&hide_border=true&background=1E1E2E&stroke=61dafb&ring=61dafb&fire=ff8a65&currStreakNum=ffffff&currStreakLabel=61dafb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="180"/>
 </div>
 
 ---
