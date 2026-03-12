@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 顶部蓝色渐变波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=220&section=header&text=Ayang&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hello%20World%20👋&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=220&section=header&text=Ayang&fontSize=60&fontColor=ffffff&fontAlignY=36&fontFamily=Orbitron&desc=Hello%20World%20👋&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- 动态打字机动画 (自托管 SVG，无需第三方服务) -->
 <img src="./typing.svg" alt="Typing Animation" width="500"/>
@@ -23,7 +23,7 @@ research:
 
 - 🔬 专注于 LLM **Evaluation**、**RAG-Agent** 工程及 **Agent 记忆机制**研究
 - 💬 对技术和有趣的项目充满热情
-- 📫 联系我：[itsnoalh@gmail.com](mailto:itsnoalh@gmail.com)
+- 📫 联系我：[![Gmail](https://img.shields.io/badge/Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:itsnoalh@gmail.com)
 
 ---
 
