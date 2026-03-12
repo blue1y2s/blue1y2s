@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="50" viewBox="0 0 500 50">
   <defs>
-    <!-- 打字机裁切区域：控制文字从左到右逐步显现再消失 -->
+    <!-- 打字机裁切区域 -->
     <clipPath id="clip">
       <rect x="0" y="0" height="50">
         <animate
           attributeName="width"
-          values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0"
-          keyTimes="0;0.08;0.17;0.22;  0.25;0.33;0.42;0.47;  0.5;0.58;0.67;0.72;  0.75;0.83;0.92;1"
-          dur="48s"
+          values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0;  0"
+          keyTimes="0;0.0556;0.1389;0.2056;  0.25;0.3056;0.3889;0.4556;  0.5;0.5556;0.6389;0.7056;  0.75;0.8056;0.8889;0.9556;  1"
+          dur="36s"
           repeatCount="indefinite"
           calcMode="linear"
         />
@@ -19,42 +19,42 @@
   <rect y="10" width="2" height="28" fill="#3B82F6" rx="1">
     <animate
       attributeName="x"
-      values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0"
-      keyTimes="0;0.08;0.17;0.22;  0.25;0.33;0.42;0.47;  0.5;0.58;0.67;0.72;  0.75;0.83;0.92;1"
-      dur="48s"
+      values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0;  0"
+      keyTimes="0;0.0556;0.1389;0.2056;  0.25;0.3056;0.3889;0.4556;  0.5;0.5556;0.6389;0.7056;  0.75;0.8056;0.8889;0.9556;  1"
+      dur="36s"
       repeatCount="indefinite"
       calcMode="linear"
     />
     <animate attributeName="opacity" values="1;0;1;0" dur="1s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- 第1行: Hi! I'm Ayang  (14字符 × ~13.2px ≈ 185px, 留余量195) -->
+  <!-- 第1行: Hi! I'm Ayang (0~9s) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Hi! I'm Ayang
-    <set attributeName="visibility" to="visible" begin="0s" dur="12s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="hidden" begin="12s" dur="36s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="0s" dur="9s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="9s" dur="27s" repeatCount="indefinite"/>
   </text>
 
-  <!-- 第2行: Welcome to my GitHub Profile  (28字符 × ~13.2px ≈ 370px, 留余量385) -->
+  <!-- 第2行: Welcome to my GitHub Profile (9~18s) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Welcome to my GitHub Profile
-    <set attributeName="visibility" to="hidden" begin="0s" dur="12s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="visible" begin="12s" dur="12s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="hidden" begin="24s" dur="24s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="0s" dur="9s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="9s" dur="9s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="18s" dur="18s" repeatCount="indefinite"/>
   </text>
 
-  <!-- 第3行: Explorer | Builder | Learner  (28字符 × ~13.2px ≈ 370px, 留余量375) -->
+  <!-- 第3行: Explorer | Builder | Learner (18~27s) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Explorer | Builder | Learner
-    <set attributeName="visibility" to="hidden" begin="0s" dur="24s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="visible" begin="24s" dur="12s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="hidden" begin="36s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="0s" dur="18s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="18s" dur="9s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="27s" dur="9s" repeatCount="indefinite"/>
   </text>
 
-  <!-- 第4行: Creator of See_yourself  (23字符 × ~13.2px ≈ 304px, 留余量310) -->
+  <!-- 第4行: Creator of See_yourself (27~36s) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Creator of See_yourself
-    <set attributeName="visibility" to="hidden" begin="0s" dur="36s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="visible" begin="36s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="0s" dur="27s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="27s" dur="9s" repeatCount="indefinite"/>
   </text>
 </svg>
