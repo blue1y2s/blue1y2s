@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="50" viewBox="0 0 500 50">
   <defs>
-    <!-- 打字机裁切区域 -->
+    <!-- Typing clip area -->
     <clipPath id="clip">
       <rect x="0" y="0" height="50">
         <animate
           attributeName="width"
-          values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0;  0"
+          values="0;185;185;0;  0;375;375;0;  0;355;355;0;  0;305;305;0;  0"
           keyTimes="0;0.0556;0.1389;0.2056;  0.25;0.3056;0.3889;0.4556;  0.5;0.5556;0.6389;0.7056;  0.75;0.8056;0.8889;0.9556;  1"
           dur="36s"
           repeatCount="indefinite"
@@ -15,11 +15,11 @@
     </clipPath>
   </defs>
 
-  <!-- 闪烁光标 -->
-  <rect y="10" width="2" height="28" fill="#3B82F6" rx="1">
+  <!-- Blinking cursor (thin, minimalist) -->
+  <rect y="12" width="1.5" height="24" fill="#64748b" rx="0">
     <animate
       attributeName="x"
-      values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0;  0"
+      values="0;185;185;0;  0;375;375;0;  0;355;355;0;  0;305;305;0;  0"
       keyTimes="0;0.0556;0.1389;0.2056;  0.25;0.3056;0.3889;0.4556;  0.5;0.5556;0.6389;0.7056;  0.75;0.8056;0.8889;0.9556;  1"
       dur="36s"
       repeatCount="indefinite"
@@ -28,31 +28,41 @@
     <animate attributeName="opacity" values="1;0;1;0" dur="1s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- 第1行: Hi! I'm Ayang (0~9s) -->
-  <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
-    Hi! I'm Ayang
+  <style>
+    .text-minimal {
+      font-family: 'Helvetica Neue', Inter, -apple-system, sans-serif;
+      font-size: 20px;
+      font-weight: 300;
+      letter-spacing: 1.5px;
+      fill: #64748b;
+    }
+  </style>
+
+  <!-- Line 1 -->
+  <text x="0" y="32" class="text-minimal" clip-path="url(#clip)">
+    Hi, i am Ayang
     <set attributeName="visibility" to="visible" begin="0s" dur="9s" repeatCount="indefinite"/>
     <set attributeName="visibility" to="hidden" begin="9s" dur="27s" repeatCount="indefinite"/>
   </text>
 
-  <!-- 第2行: Welcome to my GitHub Profile (9~18s) -->
-  <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
-    Welcome to my GitHub Profile
+  <!-- Line 2 -->
+  <text x="0" y="32" class="text-minimal" clip-path="url(#clip)">
+    Welcome to my space
     <set attributeName="visibility" to="hidden" begin="0s" dur="9s" repeatCount="indefinite"/>
     <set attributeName="visibility" to="visible" begin="9s" dur="9s" repeatCount="indefinite"/>
     <set attributeName="visibility" to="hidden" begin="18s" dur="18s" repeatCount="indefinite"/>
   </text>
 
-  <!-- 第3行: Explorer | Builder | Learner (18~27s) -->
-  <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
-    Explorer | Builder | Learner
+  <!-- Line 3 -->
+  <text x="0" y="32" class="text-minimal" clip-path="url(#clip)">
+    Explorer | builder | learner
     <set attributeName="visibility" to="hidden" begin="0s" dur="18s" repeatCount="indefinite"/>
     <set attributeName="visibility" to="visible" begin="18s" dur="9s" repeatCount="indefinite"/>
     <set attributeName="visibility" to="hidden" begin="27s" dur="9s" repeatCount="indefinite"/>
   </text>
 
-  <!-- 第4行: Creator of See_yourself (27~36s) -->
-  <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
+  <!-- Line 4 -->
+  <text x="0" y="32" class="text-minimal" clip-path="url(#clip)">
     Creator of See_yourself
     <set attributeName="visibility" to="hidden" begin="0s" dur="27s" repeatCount="indefinite"/>
     <set attributeName="visibility" to="visible" begin="27s" dur="9s" repeatCount="indefinite"/>
