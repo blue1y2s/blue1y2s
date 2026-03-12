@@ -14,14 +14,26 @@
 
 ```yaml
 name: Ayang
-email: itsnoalh@gmail.com
 interests: [开源技术, 自动化工具, 全栈开发]
-currently_learning: 持续探索中...
+research:
+  - LLM Evaluation & Benchmarking
+  - RAG-Agent 工程
+  - Agent 记忆系统与长期上下文管理
 ```
 
-- 🔭 目前在维护 [`See_yourself`](https://github.com/blue1y2s/See_yourself)
+- 🔬 专注于 LLM **Evaluation**、**RAG-Agent** 工程及 **Agent 记忆机制**研究
 - 💬 对技术和有趣的项目充满热情
 - 📫 联系我：[itsnoalh@gmail.com](mailto:itsnoalh@gmail.com)
+
+---
+
+### 🔍 Research Focus
+
+| 方向 | 内容 |
+|------|------|
+| **Evaluation** | LLM/Agent 评测体系设计、benchmark 构建与分析 |
+| **RAG-Agent** | 检索增强生成、Agent 工具调用与工程化落地 |
+| **Memory** | 短期/长期记忆管理、上下文压缩与持久化策略 |
 
 ---
 
