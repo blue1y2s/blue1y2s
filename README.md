@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══════════════════════ HEADER ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1f,30:0d1b4b,70:1e40af,100:3b82f6&height=230&section=header&text=AYANG&fontSize=72&fontColor=00d4ff&fontAlignY=36&desc=⚡%20Hello%20World%20%20👋&descSize=22&descAlignY=56&animation=fadeIn&fontFamily=Orbitron&stroke=0d1b4b&strokeWidth=2" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1f,30:0d1b4b,70:1e40af,100:3b82f6&height=230&section=header&text=AYANG&fontSize=72&fontColor=00d4ff&fontAlignY=36&desc=⚡%20Hello%20World%20%20👋&descSize=22&descAlignY=56&animation=fadeIn&fontFamily=Montserrat" width="100%" alt="header"/>
 
 <!-- 打字机动画 -->
 <img src="./typing.svg" alt="Typing Animation" width="500"/>
