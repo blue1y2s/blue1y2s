@@ -1,51 +1,59 @@
 <div align="center">
 
-<!-- 顶部蓝色渐变波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=220&section=header&text=Ayang&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hello%20World%20👋&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
+<!-- ══════════════════════ HEADER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1f,30:0d1b4b,70:1e40af,100:3b82f6&height=230&section=header&text=AYANG&fontSize=72&fontColor=00d4ff&fontAlignY=36&desc=⚡%20Hello%20World%20%20👋&descSize=22&descAlignY=56&animation=fadeIn&fontFamily=Orbitron&stroke=0d1b4b&strokeWidth=2" width="100%" alt="header"/>
 
-<!-- 动态打字机动画 (自托管 SVG，无需第三方服务) -->
+<!-- 打字机动画 -->
 <img src="./typing.svg" alt="Typing Animation" width="500"/>
+
+<br/>
+
+<!-- 方向标签 -->
+![](https://img.shields.io/badge/▸_LLM-Evaluation-00d4ff?style=flat-square&labelColor=0a0e1f)
+![](https://img.shields.io/badge/▸_RAG-Agent-3b82f6?style=flat-square&labelColor=0a0e1f)
+![](https://img.shields.io/badge/▸_Agent-Memory_Systems-60a5fa?style=flat-square&labelColor=0a0e1f)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### ⌬ About Me
 
 ```yaml
-name: Ayang
-interests: [开源技术, 自动化工具, 全栈开发]
-research:
-  - LLM Evaluation & Benchmarking
-  - RAG-Agent 工程
-  - Agent 记忆系统与长期上下文管理
+name   : Ayang
+stack  : [开源技术, 自动化工具, 全栈开发]
+focus  :
+  ▸ LLM Evaluation & Benchmarking
+  ▸ RAG-Agent 工程
+  ▸ Agent 记忆系统与长期上下文管理
+status : 🟢 Online
 ```
 
 - 🔬 专注于 LLM **Evaluation**、**RAG-Agent** 工程及 **Agent 记忆机制**研究
 - 💬 对技术和有趣的项目充满热情
-- 📫 联系我：[itsnoalh@gmail.com](mailto:itsnoalh@gmail.com)
+- 📫 &nbsp;[![Contact Me](https://img.shields.io/badge/📧_Contact_Me-Send_Message-00d4ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0e1f)](mailto:itsnoalh@gmail.com)
 
 ---
 
-### 🔍 Research Focus
+### ⌬ Research Focus
 
-| 方向 | 内容 |
-|------|------|
-| **Evaluation** | LLM/Agent 评测体系设计、benchmark 构建与分析 |
-| **RAG-Agent** | 检索增强生成、Agent 工具调用与工程化落地 |
-| **Memory** | 短期/长期记忆管理、上下文压缩与持久化策略 |
+| Direction | Focus Area |
+|-----------|-----------|
+| **▸ Evaluation** | LLM/Agent 评测体系设计、benchmark 构建与分析 |
+| **▸ RAG-Agent** | 检索增强生成、Agent 工具调用与工程化落地 |
+| **▸ Memory** | 短期/长期记忆管理、上下文压缩与持久化策略 |
 
 ---
 
-### 📊 GitHub Stats
+### ⌬ GitHub Stats
 
 <div align="center">
   <a href="https://github.com/blue1y2s">
-    <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&title_color=3b82f6&icon_color=60a5fa" height="170" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&title_color=00d4ff&icon_color=3b82f6" height="170" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/blue1y2s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true&title_color=3b82f6" height="170" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true&title_color=00d4ff" height="170" alt="Top Languages"/>
   </a>
 </div>
 
@@ -59,16 +67,14 @@ research:
 
 ---
 
-### 📈 Contribution Graph
+### ⌬ Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&theme=github-compact&bg_color=22272e&color=adbac7&line=3b82f6&point=60a5fa&area=true&area_color=3b82f6&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&theme=github-compact&bg_color=0a0e1f&color=adbac7&line=00d4ff&point=3b82f6&area=true&area_color=1e40af&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=120&section=footer" width="100%" alt="footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:0a0e1f&height=120&section=footer" width="100%" alt="footer"/>
 </div>
