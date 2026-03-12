@@ -17,31 +17,44 @@
 
 ---
 
-### ⌬ About Me
+<table align="center">
+<tr>
+<td valign="top" width="42%">
 
-```yaml
-name   : Ayang
-stack  : [开源技术, 自动化工具, 全栈开发]
-focus  :
-  ▸ LLM Evaluation & Benchmarking
-  ▸ RAG-Agent 工程
-  ▸ Agent 记忆系统与长期上下文管理
-status : 🟢 Online
-```
+### 🧑‍💻 &nbsp; Ayang
 
-- 🔬 专注于 LLM **Evaluation**、**RAG-Agent** 工程及 **Agent 记忆机制**研究
-- 💬 对技术和有趣的项目充满热情
-- 📫 &nbsp;[![Contact Me](https://img.shields.io/badge/📧_Contact_Me-Send_Message-00d4ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0e1f)](mailto:itsnoalh@gmail.com)
+`AI / ML Researcher` &nbsp; 🟢 **Online**
 
----
+<br/>
 
-### ⌬ Research Focus
+**🔭 &nbsp; Stack**
+
+![](https://img.shields.io/badge/开源技术-1e40af?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/自动化工具-1e40af?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/全栈开发-1e40af?style=flat-square&logoColor=white)
+
+<br/>
+
+💬 &nbsp; 对技术和有趣的项目充满热情
+
+<br/>
+
+[![Contact Me](https://img.shields.io/badge/📧_Contact_Me-Send_Message-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e1f)](mailto:itsnoalh@gmail.com)
+
+</td>
+<td valign="top" width="58%">
+
+### 🔬 &nbsp; Research Focus
 
 | Direction | Focus Area |
 |-----------|-----------|
-| **▸ Evaluation** | LLM/Agent 评测体系设计、benchmark 构建与分析 |
-| **▸ RAG-Agent** | 检索增强生成、Agent 工具调用与工程化落地 |
-| **▸ Memory** | 短期/长期记忆管理、上下文压缩与持久化策略 |
+| ![](https://img.shields.io/badge/Evaluation-00d4ff?style=flat-square&labelColor=0a0e1f) | LLM/Agent 评测体系设计、benchmark 构建与分析 |
+| ![](https://img.shields.io/badge/RAG--Agent-3b82f6?style=flat-square&labelColor=0a0e1f) | 检索增强生成、Agent 工具调用与工程化落地 |
+| ![](https://img.shields.io/badge/Memory-60a5fa?style=flat-square&labelColor=0a0e1f) | 短期/长期记忆管理、上下文压缩与持久化策略 |
+
+</td>
+</tr>
+</table>
 
 ---
 
