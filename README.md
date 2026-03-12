@@ -30,28 +30,35 @@ currently_learning: 持续探索中...
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" alt="stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=3b82f6&text_color=c9d1d9" height="170" alt="top langs"/>
+  <a href="https://github.com/blue1y2s">
+    <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&title_color=3b82f6&icon_color=60a5fa" height="170" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/blue1y2s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true&title_color=3b82f6" height="170" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=blue1y2s&theme=transparent&hide_border=true&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" height="170" alt="streak"/>
+  <a href="https://github.com/blue1y2s">
+    <img src="https://streak-stats.demolab.com?user=blue1y2s&theme=github-dark-blue&hide_border=true" height="170" alt="Streak Stats"/>
+  </a>
 </div>
 
-<br/>
+---
+
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&bg_color=00000000&color=c9d1d9&line=3b82f6&point=60a5fa&area=true&area_color=3b82f6&hide_border=true" width="95%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&theme=github-compact&bg_color=22272e&color=adbac7&line=3b82f6&point=60a5fa&area=true&area_color=3b82f6&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
 
 <div align="center">
 
-<!-- 底部蓝色渐变波浪 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
