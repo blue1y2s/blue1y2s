@@ -3,14 +3,8 @@
 <!-- 顶部蓝色渐变波浪 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=220&section=header&text=Ayang&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hello%20World%20👋&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
-<!-- 个人标签徽章 -->
-<img src="https://img.shields.io/badge/Hi!_I'm_Ayang-👋-3b82f6?style=for-the-badge&labelColor=1e3a5f" alt="greeting"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Explorer-🔭-22272e?style=flat-square&labelColor=1e3a5f" alt="explorer"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Builder-🛠️-22272e?style=flat-square&labelColor=1e3a5f" alt="builder"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Learner-📚-22272e?style=flat-square&labelColor=1e3a5f" alt="learner"/>
+<!-- 动态打字机动画 (自托管 SVG，无需第三方服务) -->
+<img src="./typing.svg" alt="Typing Animation" width="500"/>
 
 </div>
 

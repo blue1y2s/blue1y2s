@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="50" viewBox="0 0 500 50">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" height="50">
+        <animate attributeName="width" values="0;0;168;168;168;0;0;0;330;330;330;0;0;0;300;300;300;0;0;0;240;240;240;0;0" dur="16s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Blinking cursor -->
+  <rect y="8" width="3" height="32" fill="#3B82F6">
+    <animate attributeName="x" values="0;0;168;168;168;0;0;0;330;330;330;0;0;0;300;300;300;0;0;0;240;240;240;0;0" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Line 1: Hi! I'm Ayang -->
+  <text x="0" y="33" font-family="JetBrains Mono,Fira Code,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
+    Hi! I'm Ayang
+    <animate attributeName="opacity" values="1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 2: Welcome to my GitHub Profile -->
+  <text x="0" y="33" font-family="JetBrains Mono,Fira Code,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
+    Welcome to my GitHub Profile
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 3: Explorer | Builder | Learner -->
+  <text x="0" y="33" font-family="JetBrains Mono,Fira Code,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
+    Explorer | Builder | Learner
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0" dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 4: Creator of See_yourself -->
+  <text x="0" y="33" font-family="JetBrains Mono,Fira Code,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
+    Creator of See_yourself
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+</svg>
