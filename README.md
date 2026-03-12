@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- 顶部蓝色渐变波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=220&section=header&text=blue1y2s&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hello%20World%20👋&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3b82f6,100:60a5fa&height=220&section=header&text=Ayang&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hello%20World%20👋&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- 打字机动效 -->
 <a href="https://github.com/blue1y2s">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+my+GitHub+Profile;Explorer+%7C+Builder+%7C+Learner;Creator+of+See_yourself" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=Hi!+I'm+Ayang+👋;Welcome+to+my+GitHub+Profile;Explorer+%7C+Builder+%7C+Learner;Creator+of+See_yourself" alt="Typing SVG" />
 </a>
 
 </div>
