@@ -16,7 +16,7 @@
   </defs>
 
   <!-- Blinking cursor (thin, minimalist) -->
-  <rect y="12" width="1.5" height="24" fill="#64748b" rx="0">
+  <rect y="12" width="1.5" height="24" fill="#60a5fa" rx="0">
     <animate
       attributeName="x"
       values="0;185;185;0;  0;375;375;0;  0;355;355;0;  0;305;305;0;  0"
@@ -34,7 +34,7 @@
       font-size: 20px;
       font-weight: 300;
       letter-spacing: 1.5px;
-      fill: #64748b;
+      fill: #60a5fa;
     }
   </style>
 

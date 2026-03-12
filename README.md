@@ -47,23 +47,6 @@ Passionate about technology and interesting projects.
 
 <br/><br/>
 
-<!-- ════════════════ GITHUB STATS ════════════════ -->
-<a href="https://github.com/blue1y2s">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue1y2s&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&title_color=60a5fa&icon_color=22d3ee&text_color=e2e8f0" height="165" alt="GitHub stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/blue1y2s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue1y2s&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true&title_color=60a5fa&text_color=e2e8f0" height="165" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/blue1y2s">
-  <img src="https://streak-stats.demolab.com?user=blue1y2s&theme=github-dark-blue&hide_border=true&ring=3b82f6&fire=22d3ee&currStreakLabel=93c5fd" height="165" alt="Streak stats"/>
-</a>
-
-<br/><br/>
-
 <!-- ════════════════ CONTRIBUTION ════════════════ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&theme=github-compact&bg_color=0d1117&color=93c5fd&line=3b82f6&point=22d3ee&area=true&area_color=1e40af&hide_border=true" width="95%" alt="Contribution graph"/>
 
