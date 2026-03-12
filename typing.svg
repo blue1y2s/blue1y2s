@@ -7,7 +7,7 @@
           attributeName="width"
           values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0"
           keyTimes="0;0.08;0.17;0.22;  0.25;0.33;0.42;0.47;  0.5;0.58;0.67;0.72;  0.75;0.83;0.92;1"
-          dur="24s"
+          dur="48s"
           repeatCount="indefinite"
           calcMode="linear"
         />
@@ -21,7 +21,7 @@
       attributeName="x"
       values="0;195;195;0;  0;385;385;0;  0;375;375;0;  0;310;310;0"
       keyTimes="0;0.08;0.17;0.22;  0.25;0.33;0.42;0.47;  0.5;0.58;0.67;0.72;  0.75;0.83;0.92;1"
-      dur="24s"
+      dur="48s"
       repeatCount="indefinite"
       calcMode="linear"
     />
@@ -31,30 +31,30 @@
   <!-- 第1行: Hi! I'm Ayang  (14字符 × ~13.2px ≈ 185px, 留余量195) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Hi! I'm Ayang
-    <set attributeName="visibility" to="visible" begin="0s" dur="6s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="hidden" begin="6s" dur="18s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="0s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="12s" dur="36s" repeatCount="indefinite"/>
   </text>
 
   <!-- 第2行: Welcome to my GitHub Profile  (28字符 × ~13.2px ≈ 370px, 留余量385) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Welcome to my GitHub Profile
-    <set attributeName="visibility" to="hidden" begin="0s" dur="6s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="visible" begin="6s" dur="6s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="hidden" begin="12s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="0s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="12s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="24s" dur="24s" repeatCount="indefinite"/>
   </text>
 
   <!-- 第3行: Explorer | Builder | Learner  (28字符 × ~13.2px ≈ 370px, 留余量375) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Explorer | Builder | Learner
-    <set attributeName="visibility" to="hidden" begin="0s" dur="12s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="visible" begin="12s" dur="6s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="hidden" begin="18s" dur="6s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="0s" dur="24s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="24s" dur="12s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="36s" dur="12s" repeatCount="indefinite"/>
   </text>
 
   <!-- 第4行: Creator of See_yourself  (23字符 × ~13.2px ≈ 304px, 留余量310) -->
   <text x="0" y="35" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="22" font-weight="500" fill="#3B82F6" clip-path="url(#clip)">
     Creator of See_yourself
-    <set attributeName="visibility" to="hidden" begin="0s" dur="18s" repeatCount="indefinite"/>
-    <set attributeName="visibility" to="visible" begin="18s" dur="6s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="hidden" begin="0s" dur="36s" repeatCount="indefinite"/>
+    <set attributeName="visibility" to="visible" begin="36s" dur="12s" repeatCount="indefinite"/>
   </text>
 </svg>
