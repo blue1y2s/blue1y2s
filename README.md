@@ -48,10 +48,7 @@
 以下是我在 GitHub 上的**全时段代码提交记录趋势图**，它会自动抓取我的每日 Commit 并生成动态波浪：
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&bg_color=1E1E2E&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&bg_color=ffffff&color=20232a&line=3b82f6&point=20232a&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue1y2s&bg_color=1E1E2E&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </div>
 
 <!-- 底部渐变波浪收尾 -->
